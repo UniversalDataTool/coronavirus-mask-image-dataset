@@ -8,7 +8,7 @@ Image dataset from Instagram of people wearing medical masks, no mask, or a non-
 
 ## How to View
 
-Download the `mask_labels.udt.csv` file and open it at [universaldatatool.com](https://universaldatatool.com)
+Download the [mask_labels.udt.csv](https://github.com/UniversalDataTool/coronavirus-mask-image-dataset/blob/master/mask_labels.udt.csv) file and open it at [universaldatatool.com](https://universaldatatool.com)
 
 ## How to Use
 
