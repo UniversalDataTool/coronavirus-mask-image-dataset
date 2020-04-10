@@ -2,7 +2,7 @@
 
 > Note: This dataset links to images on Instagram. We do not store or own the images on Instagram.
 
-Image dataset from Instagram of people wearing medical masks, non-medical (DIY) masks, or no mask. Created using the [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) for fun :)
+Image dataset from Instagram of people wearing medical masks, non-medical (DIY) masks, or no mask. Created using the [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) for fun :) The dataset currently has roughly ~1205 image samples.
 
 This dataset could be used to build a face mask detector for selfie-type photos.
 
