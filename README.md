@@ -2,7 +2,7 @@
 
 > Note: This dataset links to images on Instagram. We do not store or own the images on Instagram.
 
-Image dataset from Instagram of people wearing medical masks, no mask, or a non-medical (DIY) mask. Created using the [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) for fun :)
+Image dataset from Instagram of people wearing medical masks, non-medical (DIY) masks, or no mask. Created using the [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) for fun :)
 
 ![Examples from Dataset](https://user-images.githubusercontent.com/1910070/78955958-da161580-7aae-11ea-9eb0-4d8bd9070a3e.png)
 
