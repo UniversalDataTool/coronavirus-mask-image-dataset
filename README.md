@@ -10,7 +10,7 @@ This dataset could be used to build a face mask detector for selfie-type photos.
 
 ## Getting the Data
 
-[Click this to download mask_labels.udt.csv](https://github.com/UniversalDataTool/coronavirus-mask-image-dataset/raw/master/mask_labels.udt.csv).
+[Click this to download mask_labels.udt.csv](https://github.com/UniversalDataTool/coronavirus-mask-image-dataset/raw/master/mask_labels.udt.csv). (you might have to "Save Page As" to save it)
 
 It looks kinda like this:
 
