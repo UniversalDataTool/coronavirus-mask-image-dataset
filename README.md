@@ -8,9 +8,21 @@ This dataset could be used to build a face mask detector for selfie-type photos.
 
 ![Examples from Dataset](https://user-images.githubusercontent.com/1910070/78955958-da161580-7aae-11ea-9eb0-4d8bd9070a3e.png)
 
+## Getting the Data
+
+[Click this to download mask_labels.udt.csv](https://github.com/UniversalDataTool/coronavirus-mask-image-dataset/raw/master/mask_labels.udt.csv).
+
+It looks kinda like this:
+
+| path      | . | imageUrl                       | output           |
+| --------- | - | ------------------------------ | ---------------- |
+| samples.0 | . | https://example.com/image1.jpg | medical_mask     |
+| samples.1 | . | https://example.com/image2.jpg | no_mask          |
+| samples.2 | . | https://example.com/image3.jpg | non_medical_mask |
+
 ## How to View
 
-Download the [mask_labels.udt.csv](https://github.com/UniversalDataTool/coronavirus-mask-image-dataset/blob/master/mask_labels.udt.csv) file and open it at [universaldatatool.com](https://universaldatatool.com)
+Download the [mask_labels.udt.csv](https://github.com/UniversalDataTool/coronavirus-mask-image-dataset/raw/master/mask_labels.udt.csv) file and open it at [universaldatatool.com](https://universaldatatool.com)
 
 ## How to Use
 
