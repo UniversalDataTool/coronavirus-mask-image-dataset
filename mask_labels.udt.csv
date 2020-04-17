@@ -1,5 +1,5 @@
 path,.,imageUrl,output
-interface,"{""type"":""image_classification"",""allowMultiple"":false,""availableLabels"":[{""id"":""no_mask"",""description"":""Person (or all people) is/are not wearing mask""},{""id"":""not_medical_mask"",""description"":""""}",
+interface,"{""type"":""image_classification"",""allowMultiple"":false,""availableLabels"":[{""id"":""no_mask"",""description"":""Person (or all people) is/are not wearing mask""},{""id"":""not_medical_mask"",""description"":""""}",,
 samples.382,,https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/91157553_2613650852286992_9037553433802202622_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=hqJRuYgcEzkAX9k4Oai&oh=0ebf4363d6c2f577dfd403cd89ebd0ca&oe=5EB86FBE,medical_mask
 samples.384,,https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/90900029_502580873741083_2551524672947808311_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=HrtJjKFKN4QAX9V-R40&oh=28458a9e659b30536807bd85f7e4f0a5&oe=5EB94760,medical_mask
 samples.388,,https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/90796849_516129449310347_5160350092357170700_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=N3P7AtAvDhwAX_4jXud&oh=8cd0d15468eed08ffa4a2ac5bbc62601&oe=5EB66925,medical_mask
