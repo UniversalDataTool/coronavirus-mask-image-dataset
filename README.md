@@ -1,10 +1,9 @@
 # COVID19 Mask Image Dataset
-
-## Note: Instagram has expired the URLs in this repo, if anyone knows a fix to get usable URLs, please PR!!
+## Note: Instagram has expired the URLs in this repo.
 
 > Note: This dataset links to images on Instagram. We do not store or own the images on Instagram.
 
-Image dataset from Instagram of people wearing medical masks, non-medical (DIY) masks, or no mask. Created using the [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) for fun :) The dataset currently has roughly ~1,205 image samples.
+Image dataset from Instagram of people wearing medical masks, non-medical (DIY) masks, or no mask. Created using the [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) for helping people come up with creative solutions for COVID-19 problems. The dataset currently has roughly ~1,205 image samples.
 
 This dataset could be used to build a face mask detector for selfie-type photos.
 
