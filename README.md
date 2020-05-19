@@ -7,7 +7,7 @@ Image dataset from Instagram of people wearing medical masks, non-medical (DIY) 
 
 This dataset could be used to build a face mask detector for selfie-type photos.
 
-![Examples from Dataset](https://user-images.githubusercontent.com/1910070/78955958-da161580-7aae-11ea-9eb0-4d8bd9070a3e.png)
+![Examples from Dataset](https://user-images.githubusercontent.com/1910070/78954124-1fcfdf80-7aa9-11ea-8033-678ef7da2083.png)
 
 ## Getting the Data
 
